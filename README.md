@@ -37,6 +37,7 @@ Libraries
 Algorithm
 
 * Mininmax Algorithm
+* Alpha-Beta Pruninng
 
 ## Setup
 To run this project, make sure you have installed python in your computer, here is the link: <https://www.python.org/>, then install it locally using:
