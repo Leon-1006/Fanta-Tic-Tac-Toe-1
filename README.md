@@ -7,6 +7,7 @@ An advanced, 3x3x3x3 version of traditional Tic-Tac-Toe
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
+* [Status](#status)
 * [Sources](#sources)
 * [Contact](#contact)
 * [License](#license)
@@ -54,6 +55,13 @@ pip install numpy
 Main concept of this game is followed by minimax algorithm. Minimax is a kind of backtracking algorithm that is used in decision making and game theory to find the optimal move for a player, assumig that your opponent also plays optimally.
 
 ![minimax](https://github.com/yangx18/Fanta-Tic-Tac-Toe/blob/main/minmax_func.png)
+
+## Status
+Project is in progress, and there are still some problems but we will fix them in the future
+(descriptions in () are possible solutions)
+
+* AI is not smart and efficient enough (do more research and hold sticks with human players)
+* rules are not as smart as we assumed before (make connections from sub-grid to whole board)
 
 ## Sources
 This project is inspired by 
